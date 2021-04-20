@@ -49,7 +49,7 @@ html, body{
 
 a{
     text-decoration: none;
-    color: white);
+    color: white;
 }
 
 
@@ -204,7 +204,6 @@ main .site-title{
 main .site-title .site-background{
     padding-top: 10rem;
     text-align: center;
-    color: var(--#white);
 }
 
 main .site-title h1, h3{
